@@ -29,3 +29,18 @@ a:hover {
   justify-content: flex-end;
   align-items: center;
 }
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 256px;
+  margin: 0 auto;
+}
+
+label, input { 
+  margin-bottom: .5rem;
+}
+
+input {
+  padding: 4px;
+}
