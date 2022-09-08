@@ -6,7 +6,7 @@ import EditUser from './components/EditUser';
 function App() {
   return (
     <div className="App">
-      <h5>React CRUD operations using PHP API and MySQL</h5>
+      <h2>React CRUD operations using PHP API and MySQL</h2>
       <BrowserRouter>
         <nav>
           <ul className='menu'>
