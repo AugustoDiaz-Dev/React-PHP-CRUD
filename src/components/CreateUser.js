@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import axios from 'axios'
 
 const CreateUser = () => {
 
@@ -9,12 +10,13 @@ const CreateUser = () => {
       const value = event.target.value;
       setInputs(values => ({
         ...values, [name]: value
-      }))
+      })) 
     }
 
     const handleSubmit = event => {
       event.preventDefault();
 
+      axios.post('http://localhost/9-SeptemberProjects/api/user/save', inputs)
       console.log(inputs);
 
     }
