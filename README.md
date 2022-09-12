@@ -25,9 +25,10 @@ https://lumen.laravel.com/docs/9.x
 https://github.com/laravel/lumen 
 
 - Create the DbConnection.php file
-- Create ListUser.js to list the users
+- Create ListUser.js to list the users. GET
+- Create EditUser.js to edit the users. PUT
+- Introduce the DELETE method
 
-- Create LIST, CREATE, UPDATE component in REACT
-- Create database in MySQL
-- Create GET, POST, PUT and DELETE API in PHP
-- Refactor the code (router, components)
+### Reference:
+ 
+https://www.youtube.com/watch?v=aXc55XnS0B4&list=PLCakfctNSHkFDTFczqhXNv-nYMHvLMT1H&index=7  
