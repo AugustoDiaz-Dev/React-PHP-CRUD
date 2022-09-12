@@ -19,12 +19,13 @@ https://reactrouter.com/en/main
 - Create a table with the neccesary fields
 
 ### React
-- Create the form for input the data from the front and console.log the data
+- Create the form for input (CreateUser.js) the data from the front and console.log the data
 - npm i axios
 https://lumen.laravel.com/docs/9.x 
 https://github.com/laravel/lumen 
 
-CONTINUE in VIDEO 5
+- Create the DbConnection.php file
+- Create ListUser.js to list the users
 
 - Create LIST, CREATE, UPDATE component in REACT
 - Create database in MySQL
