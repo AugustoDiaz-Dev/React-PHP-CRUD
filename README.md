@@ -19,7 +19,13 @@ https://reactrouter.com/en/main
 - Create a table with the neccesary fields
 
 ### React
-- Create the form for input the data from the front
+- Create the form for input the data from the front and console.log the data
+- npm i axios
+https://lumen.laravel.com/docs/9.x 
+https://github.com/laravel/lumen 
+
+CONTINUE in VIDEO 5
+
 - Create LIST, CREATE, UPDATE component in REACT
 - Create database in MySQL
 - Create GET, POST, PUT and DELETE API in PHP
