@@ -1,8 +1,6 @@
-# React PHP CRUD
+#  REACT CRUD using PHP API and MySQL database
 
-## REACT CRUD using PHP API and MySQL database
-
-### React
+## React
 
 - Install node, npm 
 - Create React app: npx create-react-app react-php-crud
@@ -12,7 +10,7 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 ```
 https://reactrouter.com/en/main 
 
-### MySQL
+## MySQL
 
 - Install XAMPP: 
 - XAMPP: create a new database: react-php-crud utf8_general_ci 
